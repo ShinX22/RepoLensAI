@@ -1,0 +1,8 @@
+{
+  "name": "RepoLens AI",
+  "description": "Issue-first contribution copilot that produces evidence-backed contribution guides for open-source GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
